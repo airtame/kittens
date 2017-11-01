@@ -2,7 +2,7 @@
 
 ## Url
 
-`my-json-server.typicode.com/airtame/kittens/`
+http://my-json-server.typicode.com/airtame/kittens/
 
 ## Endpoints
 
