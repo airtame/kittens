@@ -18,7 +18,7 @@ Gets a kitten based on its `id`.
 
 *Note: All options are optional*
 
-| **Name** | **Values** | **Description**            | ** Default ** |
+| **Name** | **Values** | **Description**            | **Default** |
 |----------|------------|----------------------------|---------------|
 | name     | *string*   | The name of a kitten       | `null`        |
 | _page    | *number*   | Number of result pages     | 10            |
