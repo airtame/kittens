@@ -4,61 +4,205 @@
       "id": 1,
       "name": "Whiskers",
       "bio": "Furball pet kittens",
-      "img": "https://cdn.pixabay.com/photo/2017/10/19/01/08/cat-2866167_960_720.jpg"
+      "likesYou": false,
+      "interests": ["meowing", "chasing lasers", "sleep"],
+      "images": [
+        "https://raw.githubusercontent.com/airtame/kittens/images/whiskers.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/whiskers2.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/whiskers3.jpg"
+      ]
     },
     {
       "id": 2,
       "name": "Scurry",
       "bio": "Kittens furball cute cat furball kittens cat pet",
-      "img": "https://cdn.pixabay.com/photo/2014/09/18/20/17/cat-451377_960_720.jpg"
+      "likesYou": false,
+      "interests": ["play in boxes"],
+      "images": [
+        "https://raw.githubusercontent.com/airtame/kittens/images/scurry.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/scurrry2.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/scurry3.jpg"
+      ]
     },
     {
       "id": 3,
       "name": "Skipper",
       "bio": "Furball cat cat kittens",
-      "img": "https://cdn.pixabay.com/photo/2017/10/19/03/20/cat-2866339_960_720.jpg"
+      "likesYou": false,
+      "interests": ["being mean", "ignoring people"],
+      "images": [
+        "https://raw.githubusercontent.com/airtame/kittens/images/skipper.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/skipper2.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/skipper3.jpg"
+      ]
     },
     {
       "id": 4,
       "name": "Belphegor",
       "bio": "Kittens cute furball furball videos cat pet furball cute furball",
-      "img": "https://cdn.pixabay.com/photo/2017/10/21/09/17/kitten-2874116_960_720.jpg"
+      "likesYou": true,
+      "interests": ["spitting fur"],
+      "images": [
+        "https://raw.githubusercontent.com/airtame/kittens/images/belphegor.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/belphegor2.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/belphegor3.jpg"
+      ]
     },
     {
       "id": 5,
       "name": "Evie",
       "bio": "Videos pet kittens cute pet kittens",
-      "img": "https://cdn.pixabay.com/photo/2017/10/16/19/57/cat-2858293_960_720.jpg"
+      "likesYou": false,
+      "interests": ["meowing", "chasing lasers", "sleep"],
+      "images": [
+        "https://raw.githubusercontent.com/airtame/kittens/images/evie.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/evie2.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/evie3.jpg"
+      ]
     },
     {
       "id": 6,
       "name": "Skitty",
       "bio": "Kittens furball furball cute cute pet",
-      "img": "https://cdn.pixabay.com/photo/2017/10/03/07/46/kitten-2811562_960_720.jpg"
+      "likesYou": true,
+      "interests": ["play in boxes"],
+      "images": [
+        "https://raw.githubusercontent.com/airtame/kittens/images/skitty.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/skitty2.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/skitty3.jpg"
+      ]
     },
     {
       "id": 7,
       "name": "Flora",
       "bio": "Cute videos cat pet videos pet cat",
-      "img": "https://cdn.pixabay.com/photo/2017/09/21/12/08/kitten-2771734_960_720.jpg"
+      "likesYou": false,
+      "interests": ["being mean", "ignoring people"],
+      "images": [
+        "https://raw.githubusercontent.com/airtame/kittens/images/flora.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/flora2.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/flora3.jpg"
+      ]
     },
     {
       "id": 8,
       "name": "ChooChooBear",
       "bio": "Mew meow meow meooooow",
-      "img": "https://cdn.pixabay.com/photo/2017/09/18/15/47/cat-2762156_960_720.jpg"
+      "likesYou": true,
+      "interests": ["licking my own fur", "spitting fur"],
+      "images": [
+        "https://raw.githubusercontent.com/airtame/kittens/images/choochoobear.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/choochoobear2.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/choochoobear3.jpg"
+      ]
     },
     {
       "id": 9,
       "name": "Loki",
       "bio": "Furball pet furball cat",
-      "img": "https://cdn.pixabay.com/photo/2017/09/25/12/00/main-coon-2784916_960_720.jpg"
+      "likesYou": false,
+      "interests": ["play in boxes"],
+      "images": [
+        "https://raw.githubusercontent.com/airtame/kittens/images/loki.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/loki2.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/loki3.jpg"
+      ]
     },
     {
       "id": 10,
       "name": "Nermal",
       "bio": "Cute pet cute furball cute pet kittens",
-      "img": "https://cdn.pixabay.com/photo/2017/09/23/11/49/cat-2778603_960_720.jpg"
+      "likesYou": false,
+      "interests": ["garfield", "garfield", "garfield"],
+      "images": [
+        "https://raw.githubusercontent.com/airtame/kittens/images/nermal.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/nermal2.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/nermal3.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Cebro",
+      "bio": "Furball pet kittens",
+      "likesYou": false,
+      "interests": ["meowing", "chasing lasers", "sleep"],
+      "images": [
+        "https://raw.githubusercontent.com/airtame/kittens/images/cebro.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/cebro2.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/cebro3.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Elvis",
+      "bio": "Kittens furball cute cat furball kittens cat pet",
+      "likesYou": false,
+      "interests": ["play in boxes"],
+      "images": [
+        "https://raw.githubusercontent.com/airtame/kittens/images/elvis.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/elvis2.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/elvis3.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Garfield",
+      "bio": "Furball cat cat kittens",
+      "likesYou": false,
+      "interests": ["lasagna", "kicking dogs"],
+      "images": [
+        "https://raw.githubusercontent.com/airtame/kittens/images/garfield.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/garfield2.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/garfield3.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Lilo",
+      "bio": "Kittens cute furball furball videos cat pet furball cute furball",
+      "likesYou": true,
+      "interests": ["spitting fur"],
+      "images": [
+        "https://raw.githubusercontent.com/airtame/kittens/images/lilo.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/lilo2.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/lilo3.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Missy",
+      "bio": "Videos pet kittens cute pet kittens",
+      "likesYou": false,
+      "interests": ["meowing", "chasing lasers", "sleep"],
+      "images": [
+        "https://raw.githubusercontent.com/airtame/kittens/images/missy.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/missy2.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/missy3.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Nala",
+      "bio": "Kittens furball furball cute cute pet",
+      "likesYou": true,
+      "interests": ["play in boxes"],
+      "images": [
+        "https://raw.githubusercontent.com/airtame/kittens/images/nala.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/nala2.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/nala3.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Red",
+      "bio": "Cute videos cat pet videos pet cat",
+      "likesYou": false,
+      "interests": ["being mean", "ignoring people"],
+      "images": [
+        "https://raw.githubusercontent.com/airtame/kittens/images/red.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/red2.jpg",
+        "https://raw.githubusercontent.com/airtame/kittens/images/red3.jpg"
+      ]
     }
   ]
 }
